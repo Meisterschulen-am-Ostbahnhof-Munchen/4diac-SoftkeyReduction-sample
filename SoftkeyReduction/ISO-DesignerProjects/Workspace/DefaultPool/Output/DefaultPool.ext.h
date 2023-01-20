@@ -34,4 +34,4 @@
 
 #define ISO_NAVIGATIONKEYS                    0
 
-#define ISO_NOOFSOFTKEYSPERLINE               5
+#define ISO_NOOFSOFTKEYSPERLINE               3

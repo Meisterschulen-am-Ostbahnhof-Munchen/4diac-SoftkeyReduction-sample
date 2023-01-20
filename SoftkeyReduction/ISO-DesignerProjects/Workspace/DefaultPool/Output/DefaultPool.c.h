@@ -4,34 +4,26 @@
 #define WorkingSet_0_Offset                                     1
 #define DataMask_1000_Offset                                   21
 #define SoftKeyMask_4000_Offset                                29
-#define SoftKey_5000_Offset                                    55
-#define SoftKey_5001_Offset                                    68
-#define SoftKey_5002_Offset                                    81
-#define SoftKey_5003_Offset                                    94
-#define SoftKey_5004_Offset                                   107
-#define SoftKey_5006_Offset                                   120
-#define SoftKey_5007_Offset                                   133
-#define SoftKey_5008_Offset                                   146
-#define SoftKey_5009_Offset                                   159
-#define SoftKey_5010_Offset                                   172
-#define OutputNumber_12000_Offset                             185
-#define OutputNumber_12001_Offset                             214
-#define OutputNumber_12002_Offset                             243
-#define OutputNumber_12003_Offset                             272
-#define OutputNumber_12004_Offset                             301
-#define OutputNumber_12006_Offset                             330
-#define OutputNumber_12007_Offset                             359
-#define OutputNumber_12008_Offset                             388
-#define OutputNumber_12009_Offset                             417
-#define OutputNumber_12010_Offset                             446
-#define FontAttributes_23000_Offset                           475
+#define SoftKey_5000_Offset                                    47
+#define SoftKey_5001_Offset                                    60
+#define SoftKey_5002_Offset                                    73
+#define SoftKey_5006_Offset                                    86
+#define SoftKey_5007_Offset                                    99
+#define SoftKey_5008_Offset                                   112
+#define OutputNumber_12000_Offset                             125
+#define OutputNumber_12001_Offset                             154
+#define OutputNumber_12002_Offset                             183
+#define OutputNumber_12006_Offset                             212
+#define OutputNumber_12007_Offset                             241
+#define OutputNumber_12008_Offset                             270
+#define FontAttributes_23000_Offset                           299
 
 #define ISO_OP_MEMORY_CLASS
 
-#define ISO_OP_DefaultPool_Size    483
+#define ISO_OP_DefaultPool_Size    307
 extern const unsigned char ISO_OP_MEMORY_CLASS isoOP_DefaultPool[];
 
-#define ISO_OP_DefaultPool_ObjectNumber     24
+#define ISO_OP_DefaultPool_ObjectNumber     16
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset[];
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_DefaultPool_Offset_Id[];
 #define ISO_OP_DefaultPool_Scale_Offset      1
