@@ -41,7 +41,7 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="NoOfSoftKeysPerLine">
-					<Value>5</Value>
+					<Value>4</Value>
 				</Property>
 				<Property Name="KeyWidth">
 					<Value>72</Value>
