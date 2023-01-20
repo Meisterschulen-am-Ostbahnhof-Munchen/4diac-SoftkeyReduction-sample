@@ -575,10 +575,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -675,10 +675,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -775,10 +775,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -875,10 +875,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -975,10 +975,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -1075,10 +1075,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -1175,10 +1175,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -1275,10 +1275,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -1375,10 +1375,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -1475,10 +1475,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -1575,10 +1575,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -1675,10 +1675,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>69</Value>
+					<Value>68</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -1702,16 +1702,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194304">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>1</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>1</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)(1.0000000000000000)(1.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -1835,16 +1835,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194312">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -1854,16 +1854,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194313">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -1873,16 +1873,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194314">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -1892,16 +1892,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194315">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -1911,16 +1911,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194316">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -1930,16 +1930,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194317">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>1</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>1</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)(1.0000000000000000)(1.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -1949,16 +1949,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194318">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -1968,16 +1968,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194319">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -1987,16 +1987,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194320">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -2006,16 +2006,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194321">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -2025,16 +2025,16 @@
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194322">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>0</Value>
+					<Value>2</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.0000000000000000)(0.0000000000000000)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
