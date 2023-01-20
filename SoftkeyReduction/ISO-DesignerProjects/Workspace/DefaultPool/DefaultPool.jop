@@ -1710,6 +1710,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
@@ -1728,6 +1731,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(144.0000000000000000)(0.0000000000000000)(1.0000000000000000)(72.0000000000000000)</Value>
@@ -1748,6 +1754,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(144.0000000000000000)(0.0000000000000000)(1.0000000000000000)(72.0000000000000000)</Value>
 				</Property>
@@ -1766,6 +1775,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(144.0000000000000000)(0.0000000000000000)(1.0000000000000000)(72.0000000000000000)</Value>
@@ -1786,6 +1798,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(144.0000000000000000)(0.0000000000000000)(1.0000000000000000)(72.0000000000000000)</Value>
 				</Property>
@@ -1804,6 +1819,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(360.0000000000000000)(0.0000000000000000)(1.0000000000000000)(72.0000000000000000)</Value>
@@ -1824,6 +1842,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(288.0000000000000000)(0.0000000000000000)(1.0000000000000000)(144.0000000000000000)</Value>
 				</Property>
@@ -1842,6 +1863,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
@@ -1862,6 +1886,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
@@ -1880,6 +1907,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
@@ -1900,6 +1930,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
@@ -1918,6 +1951,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
@@ -1938,6 +1974,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
@@ -1956,6 +1995,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
@@ -1976,6 +2018,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
@@ -1994,6 +2039,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
@@ -2014,6 +2062,9 @@
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
+				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
 				</Property>
@@ -2032,6 +2083,9 @@
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
+				</Property>
+				<Property Name="TabIndex">
+					<Value>-1</Value>
 				</Property>
 				<Property Name="Transform">
 					<Value>(1.0000000000000000)(0.0000000000000000)(2.0000000000000000)(0.0000000000000000)(1.0000000000000000)(2.0000000000000000)</Value>
